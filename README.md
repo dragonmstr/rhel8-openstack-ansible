@@ -18,8 +18,6 @@ This project uses Ansible to setup an OpenStack cluster with the services listed
     - **Magnum** - for container orchestration
     - **Horizon** - OpenStack UI
 
-This [project for RHEL8 Kickstart](https://github.com/baroxx/rhel8-kickstart) provides kickstart files to automate the installation of the nodes. There are also scripts to create some virtual machines.
-
 # Prerequisites
 
 The following packages are required on RHEL8:
